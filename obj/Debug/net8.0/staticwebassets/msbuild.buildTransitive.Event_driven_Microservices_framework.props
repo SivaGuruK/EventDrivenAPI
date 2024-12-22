@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Event_driven_Microservices_framework.props" />
+</Project>

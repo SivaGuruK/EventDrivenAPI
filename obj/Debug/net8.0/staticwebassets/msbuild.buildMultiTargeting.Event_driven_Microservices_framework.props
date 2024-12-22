@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Event_driven_Microservices_framework.props" />
+</Project>

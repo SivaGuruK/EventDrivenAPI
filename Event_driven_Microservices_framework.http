@@ -1,0 +1,6 @@
+@Event_driven_Microservices_framework_HostAddress = http://localhost:5224
+
+GET {{Event_driven_Microservices_framework_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
