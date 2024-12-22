@@ -32,3 +32,11 @@ C:\Users\sivag\Documents\MyWebAPI\Event_driven_Microservices_framework\obj\Debug
 C:\Users\sivag\Documents\MyWebAPI\Event_driven_Microservices_framework\obj\Debug\net8.0\Event_driven_Microservices_framework.pdb
 C:\Users\sivag\Documents\MyWebAPI\Event_driven_Microservices_framework\obj\Debug\net8.0\Event_driven_Microservices_framework.genruntimeconfig.cache
 C:\Users\sivag\Documents\MyWebAPI\Event_driven_Microservices_framework\obj\Debug\net8.0\ref\Event_driven_Microservices_framework.dll
+C:\Users\sivag\Documents\MyWebAPI\Event_driven_Microservices_framework\bin\Debug\net8.0\DnsClient.dll
+C:\Users\sivag\Documents\MyWebAPI\Event_driven_Microservices_framework\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\sivag\Documents\MyWebAPI\Event_driven_Microservices_framework\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\sivag\Documents\MyWebAPI\Event_driven_Microservices_framework\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\sivag\Documents\MyWebAPI\Event_driven_Microservices_framework\bin\Debug\net8.0\Serilog.dll
+C:\Users\sivag\Documents\MyWebAPI\Event_driven_Microservices_framework\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\sivag\Documents\MyWebAPI\Event_driven_Microservices_framework\bin\Debug\net8.0\Snappier.dll
+C:\Users\sivag\Documents\MyWebAPI\Event_driven_Microservices_framework\bin\Debug\net8.0\ZstdSharp.dll

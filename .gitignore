@@ -1,0 +1,62 @@
+# Ignore build output
+bin/
+obj/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Logs and debugging
+*.log
+*.tlog
+
+# Rider project files
+.idea/
+*.sln.iml
+
+# Visual Studio Code
+.vscode/
+
+# Database files
+*.db
+*.sql
+*.sqlite
+*.mongo
+
+# Temporary files
+*.tmp
+*.temp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Config files with sensitive information
+appsettings.Development.json
+appsettings.Local.json
+appsettings.*.json
+
+# Crash reports
+crashlytics/
+
+# JetBrains Rider
+.idea/
+
+# Ignore dependencies
+packages/
+*.nupkg
+*.snupkg
+
+# Backup files
+*.bak
+
+# System-specific files
+*.swp
+*.swm
+*.swn
+*.bak
+*.old
+*.orig
+*.rej

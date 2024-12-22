@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Event_driven_Microservices_framework")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d64ad06c49e995c3f871025fe82615c35d76b17c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a0f3f1c5810e19d5047596cb6a4f3d475f9dbf95")]
 [assembly: System.Reflection.AssemblyProductAttribute("Event_driven_Microservices_framework")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Event_driven_Microservices_framework")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
